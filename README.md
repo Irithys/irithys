@@ -1,5 +1,13 @@
 ### Hi there, this is irithys 👋
 
+⏳ Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 68.34 %
+
+---
+
+⏰ Updated on Wed, 07 Sep 2022 10:12:45 GMT
+
+---
+
 Github:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=irithys)](https://github.com/ryo-ma/github-profile-trophy)
@@ -17,3 +25,4 @@ language:
 count:
 
 ![irithys](https://count.getloli.com/get/@irithys?theme=gelbooru)
+
