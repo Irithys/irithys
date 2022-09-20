@@ -24,6 +24,6 @@ language:
 
 count:
 
-![irithys](https://count.getloli.com/get/@irithys?theme=gelbooru)
+![irithys](https://count.getloli.com/get/@irithys?theme=asoul)
 
 
