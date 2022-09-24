@@ -40,7 +40,7 @@ language:
 
 count:
 
-![irithys](https://count.getloli.com/get/@irithys?theme=asoul)
+![irithys](https://count.irithys.com/github?theme=asoul)
 
 `
 
