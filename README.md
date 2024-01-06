@@ -1,12 +1,6 @@
-### Hi there, this is irithys 👋
+h2> Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-⏳ Year progress { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 1.44 %
-
----
-
-⏰ Updated on Sat, 06 Jan 2024 06:10:13 GMT
-
----
+I'm irithys.
 
 Github:
 
