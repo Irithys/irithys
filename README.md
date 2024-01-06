@@ -92,12 +92,3 @@ TypeScript               1 repo              █░░░░░░░░░░�
  Last Updated on 06/01/2024 08:22:25 UTC
 <!--END_SECTION:waka-->
 
-language:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irithys&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-count:
-
-![irithys](https://count.irithys.com/github?theme=asoul)
-
-
