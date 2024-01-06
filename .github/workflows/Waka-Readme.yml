@@ -17,3 +17,4 @@ jobs:
           LOCALE: "zh_Hans"
           SHOW_LOC_CHART: "False"
           UPDATED_DATE_FORMAT: "%Y年%m月%d日 %H:%M"
+          SHOW_DAYS_OF_WEEK: "False"
