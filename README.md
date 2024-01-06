@@ -5,15 +5,11 @@ I'm [irithys](https://irithys.com)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-Github:
+![GitHub followers](https://img.shields.io/github/followers/irithys)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=irithys)](https://github.com/ryo-ma/github-profile-trophy)
 
-Stats:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irithys&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=irithys&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 language:
 
