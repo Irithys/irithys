@@ -9,6 +9,8 @@ I'm [irithys](https://irithys.com).
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C109%20hrs%2042%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-304.87%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
@@ -25,6 +27,32 @@ I'm [irithys](https://irithys.com).
  > 
 > 🔑 14 个私人仓库 
  > 
+**我是早鸟 🐤** 
+
+```text
+🌞 早晨                     790 commits         ████████░░░░░░░░░░░░░░░░░   31.13 % 
+🌆 白天                     604 commits         ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
+🌃 傍晚                     659 commits         ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+🌙 晚上                     485 commits         █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+```
+
+
+📊 **本周消耗时间** 
+
+```text
+🕑︎ 时区: Asia/Shanghai
+
+💬 编程语言: 
+Other                    13 hrs 14 mins      ███████████████████████░░   90.81 % 
+Markdown                 1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+
+🔥 编辑器: 
+Edge                     14 hrs 34 mins      █████████████████████████   100.00 % 
+
+💻 操作系统: 
+Windows                  14 hrs 34 mins      █████████████████████████   100.00 % 
+```
+
 **我最常使用 JavaScript** 
 
 ```text
@@ -38,6 +66,6 @@ Python                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 19:55:50 UTC
+ Last Updated on 25/07/2026 19:43:38 UTC
 <!--END_SECTION:waka-->
 
