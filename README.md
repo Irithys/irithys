@@ -9,7 +9,7 @@ I'm [irithys](https://irithys.com).
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C109%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C113%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-1-blue?style=flat)
 
@@ -43,14 +43,14 @@ I'm [irithys](https://irithys.com).
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    13 hrs 14 mins      ███████████████████████░░   90.81 % 
-Markdown                 1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Other                    13 hrs 11 mins      ███████████████████████░░   90.78 % 
+Markdown                 1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
 
 🔥 编辑器: 
-Edge                     14 hrs 34 mins      █████████████████████████   100.00 % 
+Edge                     14 hrs 31 mins      █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  14 hrs 34 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **我最常使用 JavaScript** 
@@ -66,6 +66,6 @@ Python                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:43:38 UTC
+ Last Updated on 26/07/2026 19:44:51 UTC
 <!--END_SECTION:waka-->
 
