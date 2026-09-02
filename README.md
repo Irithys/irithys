@@ -43,14 +43,14 @@ I'm [irithys](https://irithys.com).
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    21 hrs 25 mins      ███████████████████████░░   93.04 % 
-Markdown                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Other                    17 hrs 10 mins      ███████████████████████░░   91.50 % 
+Markdown                 1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
 
 🔥 编辑器: 
-Edge                     23 hrs 2 mins       █████████████████████████   100.00 % 
+Edge                     18 hrs 46 mins      █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  23 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  18 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -72,6 +72,6 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 21:14:30 UTC
+ Last Updated on 02/09/2026 21:13:15 UTC
 <!--END_SECTION:waka-->
 
