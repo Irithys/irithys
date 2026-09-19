@@ -43,14 +43,14 @@ I'm [irithys](https://irithys.com).
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    7 hrs 12 mins       ████████████████████████░   97.03 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Other                    6 hrs 10 mins       █████████████████████████   99.09 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🔥 编辑器: 
-Edge                     7 hrs 25 mins       █████████████████████████   100.00 % 
+Edge                     6 hrs 14 mins       █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  7 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -72,6 +72,6 @@ Python                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 21:08:19 UTC
+ Last Updated on 19/09/2026 20:55:37 UTC
 <!--END_SECTION:waka-->
 
